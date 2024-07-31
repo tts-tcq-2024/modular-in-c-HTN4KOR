@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h> // Ensure assert.h is included
-#include "colorcode.h"
+#include "colourcode.h"
 
 const char* MajorColorNames[] = {
     "White", "Red", "Black", "Yellow", "Violet"
