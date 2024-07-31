@@ -1,5 +1,5 @@
-#ifndef COLORCODE_H
-#define COLORCODE_H
+#ifndef COLOURCODE_H
+#define COLOURCODE_H
 
 enum MajorColor {WHITE, RED, BLACK, YELLOW, VIOLET};
 enum MinorColor {BLUE, ORANGE, GREEN, BROWN, SLATE};
